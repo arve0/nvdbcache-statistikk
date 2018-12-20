@@ -60,10 +60,10 @@ export default {
   data: function() {
     return {
       zoom: 10,
-      x_from: 507,
-      x_to: 516,
+      x_from: 505,
+      x_to: 525,
       y_from: 368,
-      y_to: 373,
+      y_to: 383,
       statistics: {
         min: 10000,
         max: 0,
